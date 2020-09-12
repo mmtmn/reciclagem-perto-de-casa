@@ -121,7 +121,7 @@ def allPontos():
 			print('Tipos de residuos: ', row[0])
 			print('---------------------------')
 		input('Pressione ENTER para continuar...')
-### --- FIm da Função que mostra todos os locais disponiveis para reciclagem --- ###
+### --- Fim da Função que mostra todos os locais disponiveis para reciclagem --- ###
 
 
 ### --- Inicio da função sobre --- ###
